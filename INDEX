@@ -1,0 +1,23 @@
+{
+  "about.qmd": {
+    "about.html": "c4732e1c"
+  },
+  "index.qmd": {
+    "index.html": "df3b0b52"
+  },
+  "odev1.qmd": {
+    "odev1.html": "d9aaf161"
+  },
+  "odev2.qmd": {
+    "odev2.html": "d539a1b1"
+  },
+  "proje1.qmd": {
+    "proje1.html": "60683d2d"
+  },
+  "proje2.qmd": {
+    "proje2.html": "404e8db7"
+  },
+  "projects.qmd": {
+    "projects.html": "fa5594be"
+  }
+}
